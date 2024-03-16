@@ -27,4 +27,4 @@ for i in range(3):
     original_title = i[-2]
     authors = i[2]
     rating = i[-1]
-    print(original_title, "-", authors, "-", rating)
+    print(original_title, "-", authors, "-", rating) # - Выводим информацию о подходящей книге
